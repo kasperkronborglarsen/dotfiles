@@ -83,4 +83,5 @@ alias g='nocorrect git'
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-export PATH="$HOME/.poetry/bin:$PATH"
+export PATH="/home/kkro/.local/bin:$PATH"
+# OLD export PATH="$HOME/.poetry/bin:$PATH"
